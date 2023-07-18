@@ -4,6 +4,7 @@
 int main(void)
 {
     printf("Hello World");
-    int a;
+    int a,b,c,d,e,f;
+    char x,y,z;
     return 0;
 }
